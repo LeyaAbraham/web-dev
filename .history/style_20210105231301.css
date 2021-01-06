@@ -1,0 +1,21 @@
+#wrap {
+    background-color: lightskyblue;
+    border-color: lightyellow;
+    border-radius: 2cm;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    width: 300px;
+    position: absolute;
+	top:30%;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+    
+}
+
+button {
+    border-radius: 1cm;
+    color: lightcyan
+}
